@@ -1,9 +1,9 @@
 #  To Do List
 
-Demo: https://zwierzbo.github.io/ToDoList/ 
+Demo: https://zwierzbo.github.io/todos-list-react/
 
 ## Description
-<!-- ![App demo](demo/demo.gif) -->
+![App demo](demo/demo.gif)
 
 Application designed to resemble the functionality of a paper to-do list. The simple layout allows users to manage the workload of daily workload activities by ticking off and deleting the tasks that are done.
 
